@@ -1,0 +1,35 @@
+.fondo{
+	background-image: url("../img/stripes.jpg");
+	background-repeat: no-repeat;
+}
+.logo{
+	display: block;
+	margin:auto;
+	margin-top: 3%;
+}
+.weare{
+	text-align: center;
+	color: white;
+
+}
+.textnew{
+	text-align: center;
+	color: white;
+	margin-top: 3%;
+}
+.img1{
+	display: block;
+	margin:auto;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-size: 45px;
+	margin-top: 2px;
+}
+.for{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	margin-top: -30px;
+}
